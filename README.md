@@ -1,4 +1,15 @@
-## Hi there 👋
+# مرحبًا 👋 أنا أميرة
+طالبة نظم معلومات إدارية ✨
+أحب تطوير الواجهات باستخدام React وتهتم بتطبيقات الويب ❤️
+
+### 💻 مهاراتي:
+- React.js
+- Node.js
+- MySQL
+- Git & GitHub
+
+### 📫 تواصلي معي:
+- 💌 ameracandy56@gmail.com 
 
 <!--
 **ameracandy/ameracandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
